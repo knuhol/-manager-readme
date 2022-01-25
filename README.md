@@ -92,3 +92,5 @@ __Appreciate activities I am driving__, if you think they make sense and bring v
 
 - I live on the island with limited transport options, which makes my commuting harder. I like meeting in the office and attending after works, however a good planning is the key for me so I prefer knowing about such events in advance. There is a high chance I will need to commute by car so I appreciate if the meeting points have good parking options.
 - I am a passionate diver and I dive often after office hours, so I prefer having my schedule flexible. It is not rare seeing me working one day till 20:00 and another day finishing at 15:00. I appreciate checking with me before planning a meeting after 16:00 CET.
+
+Inspired by [managerreadme.com](https://managerreadme.com)
